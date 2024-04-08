@@ -1,3 +1,13 @@
 {
-  "permissions" : ["window"]
+  "author" : "patman",
+  "description" : "makes starbound bounce like the dvd logo\n\nrequires StarExtensions",
+  "friendlyName" : "DVD logo 2",
+  "link" : "steam://url/CommunityFilePage/3216848925",
+  "name" : "pat_dvdlogo 2",
+  "permissions" : ["window"],
+  "steamContentId" : "3216848925",
+  "steamDescription" : "makes starbound bounce like the dvd logo\n\n\n[url=https://github.com/StarExtensions/StarExtensions][b]requieres StarExtensions[/b]\n[img]https://files.catbox.moe/qlqnge.png[/img]\n[/url]\n\n\n[img]https://i.imgur.com/jJAj6jF.gif[/img]https://github.com/bongus-jive/dvd-logo-2\n[img]https://i.imgur.com/wXjYMqP.gif[/img]https://discord.gg/GdsQSgV\n[img]https://i.imgur.com/uyG8oTa.gif[/img]https://www.patreon.com/pathiccstar\n[img]https://i.imgur.com/xVfcRRH.gif[/img]https://ko-fi.com/patmanf",
+  "steamTitle" : "DVD logo 2 [StarExtensions]",
+  "tags" : "Miscellaneous",
+  "version" : "1.0"
 }
